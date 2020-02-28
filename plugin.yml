@@ -1,6 +1,6 @@
 main: mainPackage.main
 name: GoodDangerousCaves
-version: 10.5
+version: 18.1
 author: Envel
 description: Adds and improves mechanics in caves.
 api-version: 1.14
